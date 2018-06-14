@@ -1,4 +1,4 @@
-﻿$VBSFile = @"
+$VBSFile = @"
 '' Identify which patches are registered on the system, and to which
 '' products those patches are installed.
 'Option Explicit
