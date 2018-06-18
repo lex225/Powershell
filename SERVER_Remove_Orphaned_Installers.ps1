@@ -1,3 +1,4 @@
+#Initial Pass to list registered objects in output.txt which need to be kept
 $VBSFile = @"
 '' Identify which patches are registered on the system, and to which
 '' products those patches are installed.
