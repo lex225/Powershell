@@ -1,4 +1,4 @@
-﻿# Establish a PowerShell session with Office 365. You'll be prompted for your Delegated Admin credentials
+# Establish a PowerShell session with Office 365. You'll be prompted for your Delegated Admin credentials
 $Cred = Get-Credential
 Connect-MsolService -Credential $Cred
 # To exclude a customer add the Customer name below, to run on a single customer change notmach to match
